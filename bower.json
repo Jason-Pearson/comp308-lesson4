@@ -1,0 +1,28 @@
+{
+  "name": "comp308-lesson3",
+  "description": "Express Demo via Express Generator for MVC (vertical site structure)",
+  "main": "server.js",
+  "authors": [
+    "Jason Pearson"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "Heroku"
+  ],
+  "homepage": "https://github.com/Jason-Pearson/comp308-lesson3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
