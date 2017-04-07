@@ -1,5 +1,5 @@
 {
-  "name": "comp308-lesson3",
+  "name": "comp308-lesson4",
   "description": "Express Demo via Express Generator for MVC (vertical site structure)",
   "main": "server.js",
   "authors": [
@@ -11,7 +11,7 @@
     "ExpressJS",
     "Heroku"
   ],
-  "homepage": "https://github.com/Jason-Pearson/comp308-lesson3",
+  "homepage": "https://github.com/Jason-Pearson/comp308-lesson4",
   "ignore": [
     "**/.*",
     "node_modules",

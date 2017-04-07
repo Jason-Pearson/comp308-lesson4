@@ -1,5 +1,5 @@
 {
-  "name": "comp308-lesson3",
+  "name": "comp308-lesson4",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -15,14 +15,16 @@
     "debug": "~2.6.0",
     "ejs": "~2.5.5",
     "express": "~4.14.1",
+    "mongoose": "^4.8.1",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.2"
   },
-  "description": "Express Demo via Express Generator for MVC (vertical site structure)",
+  "devDependencies": {},
+  "description": "Lesson 4 - Using MongoDB",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jason-Pearson/comp308-lesson3.git"
+    "url": "git+https://github.com/Jason-Pearson/comp308-lesson4.git"
   },
   "keywords": [
     "NodeJS",
@@ -32,7 +34,7 @@
   "author": "Jason Pearson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jason-Pearson/comp308-lesson3/issues"
+    "url": "https://github.com/Jason-Pearson/comp308-lesson4/issues"
   },
-  "homepage": "https://github.com/Jason-Pearson/comp308-lesson3#readme"
+  "homepage": "https://github.com/Jason-Pearson/comp308-lesson4#readme"
 }
